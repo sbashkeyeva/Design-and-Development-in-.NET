@@ -1,0 +1,10 @@
+\\mac\home\documents\visual studio 2015\Projects\TimeTracker\TimeTracker\bin\Debug\TimeTracker.exe.config
+\\mac\home\documents\visual studio 2015\Projects\TimeTracker\TimeTracker\obj\Debug\TimeTracker.MyUserControl.resources
+\\mac\home\documents\visual studio 2015\Projects\TimeTracker\TimeTracker\obj\Debug\TimeTracker.Properties.Resources.resources
+\\mac\home\documents\visual studio 2015\Projects\TimeTracker\TimeTracker\obj\Debug\TimeTracker.csproj.GenerateResource.Cache
+\\mac\home\documents\visual studio 2015\Projects\TimeTracker\TimeTracker\obj\Debug\TimeTracker.Form1.resources
+\\mac\home\documents\visual studio 2015\Projects\TimeTracker\TimeTracker\bin\Debug\TimeTracker.exe
+\\mac\home\documents\visual studio 2015\Projects\TimeTracker\TimeTracker\bin\Debug\TimeTracker.pdb
+\\mac\home\documents\visual studio 2015\Projects\TimeTracker\TimeTracker\obj\Debug\TimeTracker.exe
+\\mac\home\documents\visual studio 2015\Projects\TimeTracker\TimeTracker\obj\Debug\TimeTracker.pdb
+\\mac\home\documents\visual studio 2015\Projects\TimeTracker\TimeTracker\obj\Debug\TimeTracker.csprojResolveAssemblyReference.cache

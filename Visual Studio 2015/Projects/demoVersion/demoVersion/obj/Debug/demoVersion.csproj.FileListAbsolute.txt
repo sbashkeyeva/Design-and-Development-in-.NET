@@ -1,0 +1,9 @@
+\\mac\home\documents\visual studio 2015\Projects\demoVersion\demoVersion\bin\Debug\demoVersion.exe.config
+\\mac\home\documents\visual studio 2015\Projects\demoVersion\demoVersion\bin\Debug\demoVersion.exe
+\\mac\home\documents\visual studio 2015\Projects\demoVersion\demoVersion\bin\Debug\demoVersion.pdb
+\\mac\home\documents\visual studio 2015\Projects\demoVersion\demoVersion\obj\Debug\demoVersion.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\demoVersion\demoVersion\obj\Debug\demoVersion.Properties.Resources.resources
+\\mac\home\documents\visual studio 2015\Projects\demoVersion\demoVersion\obj\Debug\demoVersion.UserControl1.resources
+\\mac\home\documents\visual studio 2015\Projects\demoVersion\demoVersion\obj\Debug\demoVersion.csproj.GenerateResource.Cache
+\\mac\home\documents\visual studio 2015\Projects\demoVersion\demoVersion\obj\Debug\demoVersion.exe
+\\mac\home\documents\visual studio 2015\Projects\demoVersion\demoVersion\obj\Debug\demoVersion.pdb

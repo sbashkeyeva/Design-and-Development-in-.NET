@@ -1,0 +1,6 @@
+\\mac\home\documents\visual studio 2015\Projects\algo\algo\bin\Debug\algo.exe.config
+\\mac\home\documents\visual studio 2015\Projects\algo\algo\bin\Debug\algo.exe
+\\mac\home\documents\visual studio 2015\Projects\algo\algo\bin\Debug\algo.pdb
+\\mac\home\documents\visual studio 2015\Projects\algo\algo\obj\Debug\algo.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\algo\algo\obj\Debug\algo.exe
+\\mac\home\documents\visual studio 2015\Projects\algo\algo\obj\Debug\algo.pdb

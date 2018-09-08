@@ -1,0 +1,9 @@
+\\mac\home\documents\visual studio 2015\Projects\SpellCheck\SpellCheck\bin\Debug\SpellCheck.exe.config
+\\mac\home\documents\visual studio 2015\Projects\SpellCheck\SpellCheck\bin\Debug\SpellCheck.exe
+\\mac\home\documents\visual studio 2015\Projects\SpellCheck\SpellCheck\bin\Debug\SpellCheck.pdb
+\\mac\home\documents\visual studio 2015\Projects\SpellCheck\SpellCheck\obj\Debug\SpellCheck.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\SpellCheck\SpellCheck\obj\Debug\SpellCheck.Form1.resources
+\\mac\home\documents\visual studio 2015\Projects\SpellCheck\SpellCheck\obj\Debug\SpellCheck.Properties.Resources.resources
+\\mac\home\documents\visual studio 2015\Projects\SpellCheck\SpellCheck\obj\Debug\SpellCheck.csproj.GenerateResource.Cache
+\\mac\home\documents\visual studio 2015\Projects\SpellCheck\SpellCheck\obj\Debug\SpellCheck.exe
+\\mac\home\documents\visual studio 2015\Projects\SpellCheck\SpellCheck\obj\Debug\SpellCheck.pdb

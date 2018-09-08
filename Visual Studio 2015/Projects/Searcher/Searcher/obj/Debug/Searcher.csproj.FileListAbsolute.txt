@@ -1,0 +1,1 @@
+\\mac\home\documents\visual studio 2015\Projects\Searcher\Searcher\bin\Debug\Searcher.exe.config

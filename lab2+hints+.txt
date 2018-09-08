@@ -1,0 +1,75 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace WindowsFormsApplication3
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+            words.Add("java");
+        }
+        string text = "";
+        List<string> words = new List<string>();
+        string word = "";
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+            if (text == textBox1.Text) return;
+            text = textBox1.Text;
+            int n = text.Length;
+            if (!Char.IsLetter(text[n - 1])) {
+
+                for (int i = n - 2; i >= 0; i--) {
+                  
+                    if (i == 0) { word = text.Substring(i, n - i - 1); break; }
+                    if (!Char.IsLetter(text[i])){ word = text.Substring(i + 1, n - i - 2); break;}
+               
+                }
+                if (words.Contains(word)) return;
+               text =  text.Replace(word, "java");
+                label1.Text += word + " ";
+                textBox1.Text = text;
+               textBox1.SelectionStart = textBox1.Text.Length;
+            }
+        }
+    
+        private void textBox1_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            //second way
+          //  e.KeyChar
+           // textBox1.SelectionStart
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            richTextBox1.SelectionStart = 3;
+            richTextBox1.SelectionLength = 4;
+            richTextBox1.SelectionColor = Color.Red;
+        }
+
+        private void richTextBox1_MouseClick(object sender, MouseEventArgs e)
+        {
+          //  if(e.Button == MouseButtons.Right)
+           // richTextBox1.SelectionStart 
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            List<String> w = new List<String>();//better to use BindingList 
+            listBox1.DataSource = w;
+        }
+
+        private void listBox1_DoubleClick(object sender, EventArgs e)
+        {
+            listBox1.SelectedItem
+        }
+    }
+}

@@ -1,0 +1,6 @@
+\\mac\home\documents\visual studio 2015\Projects\Movies\Movies\bin\Debug\Movies.exe.config
+\\mac\home\documents\visual studio 2015\Projects\Movies\Movies\bin\Debug\Movies.exe
+\\mac\home\documents\visual studio 2015\Projects\Movies\Movies\bin\Debug\Movies.pdb
+\\mac\home\documents\visual studio 2015\Projects\Movies\Movies\obj\Debug\Movies.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\Movies\Movies\obj\Debug\Movies.exe
+\\mac\home\documents\visual studio 2015\Projects\Movies\Movies\obj\Debug\Movies.pdb

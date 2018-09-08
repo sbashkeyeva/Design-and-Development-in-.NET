@@ -1,0 +1,9 @@
+\\mac\home\documents\visual studio 2015\Projects\TimeChecker\TimeChecker\bin\Debug\TimeChecker.exe.config
+\\mac\home\documents\visual studio 2015\Projects\TimeChecker\TimeChecker\bin\Debug\TimeChecker.exe
+\\mac\home\documents\visual studio 2015\Projects\TimeChecker\TimeChecker\bin\Debug\TimeChecker.pdb
+\\mac\home\documents\visual studio 2015\Projects\TimeChecker\TimeChecker\obj\Debug\TimeChecker.Form1.resources
+\\mac\home\documents\visual studio 2015\Projects\TimeChecker\TimeChecker\obj\Debug\TimeChecker.Properties.Resources.resources
+\\mac\home\documents\visual studio 2015\Projects\TimeChecker\TimeChecker\obj\Debug\TimeChecker.TimeControl.resources
+\\mac\home\documents\visual studio 2015\Projects\TimeChecker\TimeChecker\obj\Debug\TimeChecker.csproj.GenerateResource.Cache
+\\mac\home\documents\visual studio 2015\Projects\TimeChecker\TimeChecker\obj\Debug\TimeChecker.exe
+\\mac\home\documents\visual studio 2015\Projects\TimeChecker\TimeChecker\obj\Debug\TimeChecker.pdb

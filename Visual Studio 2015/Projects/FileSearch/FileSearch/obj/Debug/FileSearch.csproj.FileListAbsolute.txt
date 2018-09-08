@@ -1,0 +1,5 @@
+\\mac\home\documents\visual studio 2015\Projects\FileSearch\FileSearch\bin\Debug\FileSearch.dll
+\\mac\home\documents\visual studio 2015\Projects\FileSearch\FileSearch\bin\Debug\FileSearch.pdb
+\\mac\home\documents\visual studio 2015\Projects\FileSearch\FileSearch\obj\Debug\FileSearch.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\FileSearch\FileSearch\obj\Debug\FileSearch.dll
+\\mac\home\documents\visual studio 2015\Projects\FileSearch\FileSearch\obj\Debug\FileSearch.pdb

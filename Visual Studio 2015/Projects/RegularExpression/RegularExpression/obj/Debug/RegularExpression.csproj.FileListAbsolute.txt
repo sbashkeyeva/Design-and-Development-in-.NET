@@ -1,0 +1,9 @@
+\\mac\home\documents\visual studio 2015\Projects\RegularExpression\RegularExpression\bin\Debug\RegularExpression.exe.config
+\\mac\home\documents\visual studio 2015\Projects\RegularExpression\RegularExpression\bin\Debug\RegularExpression.exe
+\\mac\home\documents\visual studio 2015\Projects\RegularExpression\RegularExpression\bin\Debug\RegularExpression.pdb
+\\mac\home\documents\visual studio 2015\Projects\RegularExpression\RegularExpression\obj\Debug\RegularExpression.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\RegularExpression\RegularExpression\obj\Debug\RegularExpression.Form1.resources
+\\mac\home\documents\visual studio 2015\Projects\RegularExpression\RegularExpression\obj\Debug\RegularExpression.Properties.Resources.resources
+\\mac\home\documents\visual studio 2015\Projects\RegularExpression\RegularExpression\obj\Debug\RegularExpression.csproj.GenerateResource.Cache
+\\mac\home\documents\visual studio 2015\Projects\RegularExpression\RegularExpression\obj\Debug\RegularExpression.exe
+\\mac\home\documents\visual studio 2015\Projects\RegularExpression\RegularExpression\obj\Debug\RegularExpression.pdb

@@ -1,0 +1,9 @@
+\\mac\home\documents\visual studio 2015\Projects\FileSearcher\FileSearcher\bin\Debug\FileSearcher.exe.config
+\\mac\home\documents\visual studio 2015\Projects\FileSearcher\FileSearcher\bin\Debug\FileSearcher.exe
+\\mac\home\documents\visual studio 2015\Projects\FileSearcher\FileSearcher\bin\Debug\FileSearcher.pdb
+\\mac\home\documents\visual studio 2015\Projects\FileSearcher\FileSearcher\obj\Debug\FileSearcher.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\FileSearcher\FileSearcher\obj\Debug\FileSearcher.Form1.resources
+\\mac\home\documents\visual studio 2015\Projects\FileSearcher\FileSearcher\obj\Debug\FileSearcher.Properties.Resources.resources
+\\mac\home\documents\visual studio 2015\Projects\FileSearcher\FileSearcher\obj\Debug\FileSearcher.csproj.GenerateResource.Cache
+\\mac\home\documents\visual studio 2015\Projects\FileSearcher\FileSearcher\obj\Debug\FileSearcher.exe
+\\mac\home\documents\visual studio 2015\Projects\FileSearcher\FileSearcher\obj\Debug\FileSearcher.pdb

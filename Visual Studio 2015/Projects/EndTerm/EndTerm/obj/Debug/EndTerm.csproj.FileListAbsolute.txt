@@ -1,0 +1,9 @@
+\\mac\home\documents\visual studio 2015\Projects\EndTerm\EndTerm\bin\Debug\EndTerm.exe.config
+\\mac\home\documents\visual studio 2015\Projects\EndTerm\EndTerm\bin\Debug\EndTerm.exe
+\\mac\home\documents\visual studio 2015\Projects\EndTerm\EndTerm\bin\Debug\EndTerm.pdb
+\\mac\home\documents\visual studio 2015\Projects\EndTerm\EndTerm\obj\Debug\EndTerm.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\EndTerm\EndTerm\obj\Debug\EndTerm.Form1.resources
+\\mac\home\documents\visual studio 2015\Projects\EndTerm\EndTerm\obj\Debug\EndTerm.Properties.Resources.resources
+\\mac\home\documents\visual studio 2015\Projects\EndTerm\EndTerm\obj\Debug\EndTerm.csproj.GenerateResource.Cache
+\\mac\home\documents\visual studio 2015\Projects\EndTerm\EndTerm\obj\Debug\EndTerm.exe
+\\mac\home\documents\visual studio 2015\Projects\EndTerm\EndTerm\obj\Debug\EndTerm.pdb

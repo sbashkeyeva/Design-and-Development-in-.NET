@@ -1,0 +1,9 @@
+\\mac\home\documents\visual studio 2015\Projects\ModernPaint\ModernPaint\bin\Debug\ModernPaint.exe.config
+\\mac\home\documents\visual studio 2015\Projects\ModernPaint\ModernPaint\bin\Debug\ModernPaint.exe
+\\mac\home\documents\visual studio 2015\Projects\ModernPaint\ModernPaint\bin\Debug\ModernPaint.pdb
+\\mac\home\documents\visual studio 2015\Projects\ModernPaint\ModernPaint\obj\Debug\ModernPaint.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\ModernPaint\ModernPaint\obj\Debug\ModernPaint.Form1.resources
+\\mac\home\documents\visual studio 2015\Projects\ModernPaint\ModernPaint\obj\Debug\ModernPaint.Properties.Resources.resources
+\\mac\home\documents\visual studio 2015\Projects\ModernPaint\ModernPaint\obj\Debug\ModernPaint.csproj.GenerateResource.Cache
+\\mac\home\documents\visual studio 2015\Projects\ModernPaint\ModernPaint\obj\Debug\ModernPaint.exe
+\\mac\home\documents\visual studio 2015\Projects\ModernPaint\ModernPaint\obj\Debug\ModernPaint.pdb

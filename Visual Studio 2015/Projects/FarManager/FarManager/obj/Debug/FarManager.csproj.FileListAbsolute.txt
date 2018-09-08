@@ -1,0 +1,6 @@
+\\mac\home\documents\visual studio 2015\Projects\FarManager\FarManager\bin\Debug\FarManager.exe.config
+\\mac\home\documents\visual studio 2015\Projects\FarManager\FarManager\bin\Debug\FarManager.exe
+\\mac\home\documents\visual studio 2015\Projects\FarManager\FarManager\bin\Debug\FarManager.pdb
+\\mac\home\documents\visual studio 2015\Projects\FarManager\FarManager\obj\Debug\FarManager.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\FarManager\FarManager\obj\Debug\FarManager.exe
+\\mac\home\documents\visual studio 2015\Projects\FarManager\FarManager\obj\Debug\FarManager.pdb

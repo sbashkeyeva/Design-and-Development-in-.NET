@@ -1,0 +1,9 @@
+\\mac\home\documents\visual studio 2015\Projects\Triangle\Triangle\bin\Debug\Triangle.exe.config
+\\mac\home\documents\visual studio 2015\Projects\Triangle\Triangle\bin\Debug\Triangle.exe
+\\mac\home\documents\visual studio 2015\Projects\Triangle\Triangle\bin\Debug\Triangle.pdb
+\\mac\home\documents\visual studio 2015\Projects\Triangle\Triangle\obj\Debug\Triangle.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\Triangle\Triangle\obj\Debug\Triangle.Form1.resources
+\\mac\home\documents\visual studio 2015\Projects\Triangle\Triangle\obj\Debug\Triangle.Properties.Resources.resources
+\\mac\home\documents\visual studio 2015\Projects\Triangle\Triangle\obj\Debug\Triangle.csproj.GenerateResource.Cache
+\\mac\home\documents\visual studio 2015\Projects\Triangle\Triangle\obj\Debug\Triangle.exe
+\\mac\home\documents\visual studio 2015\Projects\Triangle\Triangle\obj\Debug\Triangle.pdb

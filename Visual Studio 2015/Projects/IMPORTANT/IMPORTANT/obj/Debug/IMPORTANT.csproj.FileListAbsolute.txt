@@ -1,0 +1,4 @@
+\\mac\home\documents\visual studio 2015\Projects\IMPORTANT\IMPORTANT\bin\Debug\IMPORTANT.exe.config
+\\mac\home\documents\visual studio 2015\Projects\IMPORTANT\IMPORTANT\obj\Debug\Samples.CircleForm.resources
+\\mac\home\documents\visual studio 2015\Projects\IMPORTANT\IMPORTANT\obj\Debug\IMPORTANT.Properties.Resources.resources
+\\mac\home\documents\visual studio 2015\Projects\IMPORTANT\IMPORTANT\obj\Debug\IMPORTANT.csproj.GenerateResource.Cache

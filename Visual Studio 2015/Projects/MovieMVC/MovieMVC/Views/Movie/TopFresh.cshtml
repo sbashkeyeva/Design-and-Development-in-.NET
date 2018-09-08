@@ -1,0 +1,16 @@
+﻿@using MovieMVC.Controllers
+
+@model IEnumerable<MovieMVC.Models.Movie>
+
+@{
+    ViewBag.Title = "ZhakMak";
+    ViewData["Title"] = "Edit";
+}
+<h2>Yeto moi mvc</h2>
+
+@foreach (var item in Model)
+{
+    <p> @item.Title @item.Year @item.Rating</p>
+}
+
+

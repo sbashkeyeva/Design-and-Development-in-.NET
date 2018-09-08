@@ -1,0 +1,9 @@
+\\mac\home\documents\visual studio 2015\Projects\ForFUN\ForFUN\bin\Debug\ForFUN.exe.config
+\\mac\home\documents\visual studio 2015\Projects\ForFUN\ForFUN\bin\Debug\ForFUN.exe
+\\mac\home\documents\visual studio 2015\Projects\ForFUN\ForFUN\bin\Debug\ForFUN.pdb
+\\mac\home\documents\visual studio 2015\Projects\ForFUN\ForFUN\obj\Debug\ForFUN.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\ForFUN\ForFUN\obj\Debug\ForFUN.Form1.resources
+\\mac\home\documents\visual studio 2015\Projects\ForFUN\ForFUN\obj\Debug\ForFUN.Properties.Resources.resources
+\\mac\home\documents\visual studio 2015\Projects\ForFUN\ForFUN\obj\Debug\ForFUN.csproj.GenerateResource.Cache
+\\mac\home\documents\visual studio 2015\Projects\ForFUN\ForFUN\obj\Debug\ForFUN.exe
+\\mac\home\documents\visual studio 2015\Projects\ForFUN\ForFUN\obj\Debug\ForFUN.pdb

@@ -1,0 +1,2 @@
+\\mac\home\documents\visual studio 2015\Projects\FAAAAAR\FAAAAAR\bin\Debug\FAAAAAR.exe.config
+\\mac\home\documents\visual studio 2015\Projects\FAAAAAR\FAAAAAR\obj\Debug\FAAAAAR.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+\\mac\home\documents\visual studio 2015\Projects\task5\task5\bin\Debug\task5.exe.config
+\\mac\home\documents\visual studio 2015\Projects\task5\task5\bin\Debug\task5.exe
+\\mac\home\documents\visual studio 2015\Projects\task5\task5\bin\Debug\task5.pdb
+\\mac\home\documents\visual studio 2015\Projects\task5\task5\obj\Debug\task5.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\task5\task5\obj\Debug\task5.exe
+\\mac\home\documents\visual studio 2015\Projects\task5\task5\obj\Debug\task5.pdb

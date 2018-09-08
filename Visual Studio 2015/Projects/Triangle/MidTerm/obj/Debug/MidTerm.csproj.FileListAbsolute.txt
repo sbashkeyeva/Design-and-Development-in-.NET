@@ -1,0 +1,9 @@
+\\mac\home\documents\visual studio 2015\Projects\Triangle\MidTerm\bin\Debug\MidTerm.exe.config
+\\mac\home\documents\visual studio 2015\Projects\Triangle\MidTerm\bin\Debug\MidTerm.exe
+\\mac\home\documents\visual studio 2015\Projects\Triangle\MidTerm\bin\Debug\MidTerm.pdb
+\\mac\home\documents\visual studio 2015\Projects\Triangle\MidTerm\obj\Debug\MidTerm.Form1.resources
+\\mac\home\documents\visual studio 2015\Projects\Triangle\MidTerm\obj\Debug\MidTerm.Properties.Resources.resources
+\\mac\home\documents\visual studio 2015\Projects\Triangle\MidTerm\obj\Debug\MidTerm.csproj.GenerateResource.Cache
+\\mac\home\documents\visual studio 2015\Projects\Triangle\MidTerm\obj\Debug\MidTerm.exe
+\\mac\home\documents\visual studio 2015\Projects\Triangle\MidTerm\obj\Debug\MidTerm.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\Triangle\MidTerm\obj\Debug\MidTerm.csprojResolveAssemblyReference.cache

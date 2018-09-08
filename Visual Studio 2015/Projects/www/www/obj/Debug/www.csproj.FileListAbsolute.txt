@@ -1,0 +1,5 @@
+\\mac\home\documents\visual studio 2015\Projects\www\www\bin\Debug\www.exe.config
+\\mac\home\documents\visual studio 2015\Projects\www\www\bin\Debug\www.exe
+\\mac\home\documents\visual studio 2015\Projects\www\www\bin\Debug\www.pdb
+\\mac\home\documents\visual studio 2015\Projects\www\www\obj\Debug\www.exe
+\\mac\home\documents\visual studio 2015\Projects\www\www\obj\Debug\www.pdb

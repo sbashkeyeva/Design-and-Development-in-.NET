@@ -1,0 +1,6 @@
+\\mac\home\documents\visual studio 2015\Projects\workWithFiles\workWithFiles\bin\Debug\workWithFiles.exe.config
+\\mac\home\documents\visual studio 2015\Projects\workWithFiles\workWithFiles\bin\Debug\workWithFiles.exe
+\\mac\home\documents\visual studio 2015\Projects\workWithFiles\workWithFiles\bin\Debug\workWithFiles.pdb
+\\mac\home\documents\visual studio 2015\Projects\workWithFiles\workWithFiles\obj\Debug\workWithFiles.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\workWithFiles\workWithFiles\obj\Debug\workWithFiles.exe
+\\mac\home\documents\visual studio 2015\Projects\workWithFiles\workWithFiles\obj\Debug\workWithFiles.pdb
